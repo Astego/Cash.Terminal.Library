@@ -1,0 +1,14 @@
+{
+  "name": "cashprovider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Roman Babenko",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.2.0"
+  }
+}
